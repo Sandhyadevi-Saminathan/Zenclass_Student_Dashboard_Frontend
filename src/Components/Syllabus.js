@@ -9,7 +9,7 @@ function Syllabus() {
                         <h5 class="card-title text-center" style={{ color: "tomato", fontSize: "25px", fontFamily: "cursive" }}>Course</h5>
                         <hr className="sidebar-divider my-4" />
                         <h6 class="card-subtitle mb-2 text-muted" style={{ fontSize: "25px", fontFamily: "cursive" }}>FSD MERN -
-                            <a href="/download/mern.pdf" download > Download</a></h6>
+                            <a href="/download/mern.pdf"  target='_blank' > View</a></h6>
 
 
 
